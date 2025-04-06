@@ -24,7 +24,7 @@ KV - MemberCare is working on improving how it manages and uses its data related
 
 This specification describes the vision, why it's needed, and how technology will help make it happen.
 
-![Unified Data Platform](diagrams/A_2D_digital_diagram_illustrates_a_unified_data_pl.png)
+![Unified Data Platform](diagrams/A_2D_digital_diagram_illustrates_a_unified_data_pl-V2.png)
 
 ## 2. Introduction to KV - MemberCare
 
