@@ -305,6 +305,8 @@ KV MemberCare is exploring Generative AI to enhance healthcare operations. AWS-n
 | ArgoCD                | GitOps deployment for Kubernetes apps                              |
 | AWS Secrets Manager   | Secure storage for API/database/ML credentials                     |
 
+![Unified Data Platform](diagrams/A_diagram_in_digital_vector_graphics_illustrates_A.png)
+
 ## 16. Business Applications and Data Consumers
 
 - **Claims Management UI**: Real-time status, edits, and pends resolution
