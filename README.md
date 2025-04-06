@@ -80,6 +80,8 @@ KV MemberCare’s push toward a real-time, unified data platform is driven by:
 
 Create a cloud-native, real-time, API-driven, and secure enterprise data platform that supports the full claims and member lifecycle while unlocking advanced analytics and intelligent automation.
 
+![Unified Data Platform](diagrams/A_2D_digital_infographic_illustrates_five_key_busi.png)
+
 ### Unified Data Platform Components
 
 - **Business Domains**: Claims, Members, Providers, Plans, Financials, Compliance
@@ -103,6 +105,8 @@ Create a cloud-native, real-time, API-driven, and secure enterprise data platfor
 - We see a need to reduce audit risks by tracking data and access clearly.
 - We must be ready to support new health plans and provider partnerships as we grow.
 
+![Unified Data Platform](diagrams/A_2D_vector_graphic_infographic_illustrates_variou.png)
+
 ## 7. CTO Perspective: Technology Enablement Strategy
 
 - We are choosing cloud-based tools so we don’t have to manage infrastructure.
@@ -111,6 +115,8 @@ Create a cloud-native, real-time, API-driven, and secure enterprise data platfor
 - We’ll use simple, open formats so systems can work together.
 - We’re putting controls in place to manage costs and track technical performance.
 
+![Unified Data Platform](diagrams/A_diagram_in_digital_graphic_format_showcases_KV_.png)
+
 ## 8. Chief Architect Perspective: Systems Design for Modernization
 
 - Domain-driven services are considered for this modernization strategy.
@@ -118,6 +124,8 @@ Create a cloud-native, real-time, API-driven, and secure enterprise data platfor
 - Time-aware data models are being designed to track changes accurately.
 - Infrastructure and pipelines will be built using code to keep everything versioned and automated.
 - System observability and audit trails are part of our early foundation.
+
+![Unified Data Platform](diagrams/A_flowchart_diagram_illustrates_the_architecture_o.png)
 
 ## 9. Enterprise Architecture Components (TOGAF BDAT Format)
 
