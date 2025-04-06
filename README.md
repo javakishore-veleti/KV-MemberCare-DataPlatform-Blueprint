@@ -115,7 +115,7 @@ Create a cloud-native, real-time, API-driven, and secure enterprise data platfor
 - We’ll use simple, open formats so systems can work together.
 - We’re putting controls in place to manage costs and track technical performance.
 
-![Unified Data Platform](diagrams/A_diagram_in_digital_graphic_format_showcases_KV_.png)
+![Unified Data Platform](diagrams/A_flowchart_diagram_illustrates_an_application_arc.png)
 
 ## 8. Chief Architect Perspective: Systems Design for Modernization
 
