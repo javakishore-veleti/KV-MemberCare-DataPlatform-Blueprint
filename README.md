@@ -147,6 +147,8 @@ Create a cloud-native, real-time, API-driven, and secure enterprise data platfor
 - Provider data includes credentials, network status, and claim history.
 - Plan data includes coverage tiers, product types, and member alignment.
 
+![Unified Data Platform](diagrams/A_high-level_digital_diagram_illustrates_an_enterp.png)
+
 **Key Practices:**
 
 - Store raw data in Amazon S3 (partitioned by date and domain).
