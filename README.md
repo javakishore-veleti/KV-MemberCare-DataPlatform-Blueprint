@@ -24,11 +24,13 @@ KV - MemberCare is working on improving how it manages and uses its data related
 
 This specification describes the vision, why it's needed, and how technology will help make it happen.
 
+![Unified Data Platform](diagrams/A_2D_digital_diagram_illustrates_a_unified_data_pl.png)
+
 ## 2. Introduction to KV - MemberCare
 
 KV - MemberCare is a healthcare payer organization delivering health benefits and managed care solutions to a wide member base. The enterprise supports a complex ecosystem of members, providers, care teams, regulators, and partners across various digital touchpoints.
 
-The company operates on the principle of patient-centric value delivery, underpinned by secure and timely data.
+The enterprise operates on the principle of patient-centric value delivery, underpinned by secure and timely data.
 
 AWS has been selected as the target cloud platform to enable scalability, compliance, and deep integration across services.
 
