@@ -6,6 +6,8 @@ Executive Summary
 
 KV - MemberCare is working on improving how it manages and uses its data related to healthcare claims, members, providers, and day-to-day operations. The goal is to build one connected system that works in real time, helps different teams make faster and better decisions, and supports the needs of both business and technology. This document explains what the company wants to achieve, why it's needed, and how technology will help make it happen.
 
+![Unified Data Platform](diagrams/A_2D_digital_diagram_illustrates_a_unified_data_pl.png)
+
 1. Introduction to KV - MemberCare
 
 KV - MemberCare is a healthcare payer organization delivering health benefits and managed care solutions to a wide member base. The enterprise supports a complex ecosystem of members, providers, care teams, regulators, and partners across various digital touchpoints. The company operates on the principle of patient-centric value delivery, underpinned by secure and timely data.
